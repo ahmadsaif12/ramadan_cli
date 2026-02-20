@@ -1,0 +1,36 @@
+@import "tailwindcss";
+
+@theme {
+  --color-ramadan-dark: #061a12;
+  --color-ramadan-green: #4ade80;
+  --color-ramadan-border: #1a4d36;
+  --color-hanafi-yellow: #eab308;
+  --font-mono: "JetBrains Mono", "Fira Code", monospace;
+}
+
+@layer base {
+  body {
+    background-color: var(--color-ramadan-dark);
+    color: var(--color-ramadan-green);
+    font-family: var(--font-mono);
+    @apply antialiased overflow-x-hidden;
+  }
+}
+
+.terminal-glow {
+  text-shadow: 0 0 10px rgba(74, 222, 128, 0.5);
+}
+
+.yellow-glow {
+  text-shadow: 0 0 15px rgba(234, 179, 8, 0.4);
+}
+
+/* Retro Scanline Effect */
+.scanlines {
+  background: linear-gradient(
+    rgba(18, 16, 16, 0) 50%,
+    rgba(0, 0, 0, 0.1) 50%
+  );
+  background-size: 100% 4px;
+  z-index: 100;
+}
