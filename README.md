@@ -1,4 +1,4 @@
-<img width="300" height="200" alt="Screenshot from 2026-02-20 20-42-25" src="https://github.com/user-attachments/assets/fe708bf5-2a28-4516-bae7-a8fc8538d117" />
+<img width="400" height="300" alt="Screenshot from 2026-02-20 20-42-25" src="https://github.com/user-attachments/assets/fe708bf5-2a28-4516-bae7-a8fc8538d117" />
 <img width="500" height="400" alt="Screenshot from 2026-02-20 20-42-03" src="https://github.com/user-attachments/assets/f0140716-2cef-4826-ba7e-01ffb3028f54" />
 # 🌙 RAMADAN_CORE
 > **Secure Terminal Uplink for Global Ramadan Synchronization.**
